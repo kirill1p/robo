@@ -1,0 +1,15 @@
+{
+  "name": "chatname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
